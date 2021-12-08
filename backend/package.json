@@ -1,5 +1,5 @@
 {
-  "name": "eyantra-server",
+  "name": "server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/subramaniyam73/eyantra-server.git"
+    "url": "git+https://github.com/dhanushkumaar/crypto-1/backend.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/subramaniyam73/eyantra-server/issues"
+    "url": "https://github.com/dhanushkumaar/crypto-1/backend.git"
   },
-  "homepage": "https://github.com/subramaniyam73/eyantra-server#readme",
+  "homepage": "https://github.com/dhanushkumaar/crypto-1/backend.git",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
