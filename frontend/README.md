@@ -68,3 +68,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+#For Blockchain initialization
+
+Start ganache at port 7545
+
+Add and deploy the smart contract to the local blockchain by running,
+
+* truffle deploy
+
+Copy Token.json from build directory to public directory
